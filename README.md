@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mateus 
 - 👀 I’m interested in Font-End Developer
-- 🌱 I’m currently learning HTML, CSS, JS, GIT and GITHUB
+- 🌱 I’m currently learning HTML, CSS, JS, GIT and GitHub
 
 <div align="center">
   <a href="https://github.com/LeSavoy">
